@@ -40,5 +40,20 @@
     <a href="https://github.com/caioliveirap">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioliveirap&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+  
+## Next Projects
+
+  - [ ] Python web scrapper to get crypto quotation
+  - [x] NestJS Rest API with MySQL and Docker
+  - [ ] NestJS Rest API with MongoDB and Docker
+  - [ ] NestJS Whatsapp API
+  - [ ] Django Rest API with MySQL and Docker
+  - [ ] Django Rest API with MongoDB and Docker
+  - [ ] Django API consumption (PokemonAPI)
+  - [ ] NextJS Front-end to display PokemonAPI
+  - [x] NextJS webhook and integration with "stripe like" API
+  - [ ] NextJS Front-end to display WhatsappAPI
+  - [ ] GO CRUD
+  
 
 
