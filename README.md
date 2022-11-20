@@ -2,7 +2,7 @@
 
 ## About Me
 
-⚛️: **Cheminal Engineering - [UFBA](https://ufba.br)**
+⚛️: **Cheminal Engineering - [IFBA](https://portal.ifba.edu.br/)**
 
 💻: **Software Engineer at [Compensa](https://www.compensa.eco/)**
 
