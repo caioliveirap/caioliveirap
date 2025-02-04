@@ -4,7 +4,7 @@
 
 ⚛️: **Cheminal Engineering - [IFBA](https://portal.ifba.edu.br/)**
 
-💻: **Software Engineer at [Compensa Eco](https://www.compensa.eco/)**
+💻: **Software Engineer at [Duelbits](https://www.duelbits.net/)**
 
 🔬: **Scientific Initiation Researcher - Graphene Nanocomposites** 
 
